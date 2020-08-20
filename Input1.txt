@@ -1,0 +1,19 @@
+{
+	"FirstName": "Ruhul",
+	"LastName" : "Alam",
+	"Age" : 39,
+	"Address" : 
+		{ 
+			"Vill" : "Mubarakpur",
+			"City" : "Karimganj",
+			"State" : "Assam",
+			"PIN" : "788713"
+		},
+	"PhoneNumber" :
+		[
+			{
+			"Type" : "Home",
+			"Number" : "91 987456321"
+			}
+		]
+}

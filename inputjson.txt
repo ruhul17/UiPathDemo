@@ -1,0 +1,47 @@
+[
+{
+	"FirstName": "Ruhul",
+	"LastName" : "Alam",
+	"Age" : 39,
+	"Address" : 
+		{ 
+			"Vill" : "Mubarakpur",
+			"City" : "Karimganj",
+			"State" : "Assam",
+			"PIN" : "788713"
+		},
+	"PhoneNumber" :
+		[
+			{
+			"Type" : "Home",
+			"Number" : "91 987456321"
+			}
+		]
+},
+{
+	"FirstName": "Rashida",
+	"LastName" : "Sultana",
+	"Age" : 35,
+	"Address" : 
+		{ 
+			"Vill" : "Nabipur",
+			"City" : "Karimganj",
+			"State" : "Assam",
+			"PIN" : "788710"
+		},
+	"PhoneNumber" :
+		[
+			{
+			"Type" : "Home",
+			"Number" : "91 777456322"
+			},
+
+			{
+			"Type" : "Mobile",
+			"Number" : "91 555456322"
+			}
+
+		]
+}
+
+]
